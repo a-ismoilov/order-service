@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/akbarshoh/microOLX/config"
-	"github.com/akbarshoh/microOLX/protos/orderproto"
+	"github.com/akbarshoh/microOLX/proto/orderproto"
 	"github.com/akbarshoh/microOLX/repository/postgres"
 	"github.com/akbarshoh/microOLX/server"
 	service2 "github.com/akbarshoh/microOLX/service"

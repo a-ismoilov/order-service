@@ -3,7 +3,7 @@ package postgres
 import (
 	"context"
 	"database/sql"
-	"github.com/akbarshoh/microOLX/protos/orderproto"
+	"github.com/akbarshoh/microOLX/proto/orderproto"
 	"log"
 	"time"
 )
